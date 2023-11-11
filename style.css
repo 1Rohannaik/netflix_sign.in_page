@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+body{
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(20, 1, 1, 0.5)),url('wallpaper.jpg');
+    background-size: cover;
+    background-position: top;
+    backdrop-filter: blur(1px);
+    height: 1%;
+}
+.dark1{
+    background-color: black;
+    height: 650px;
+    width: 460px;
+    background-color: rgba(0,0,0,.75);
+    margin-left: 480px;
+}
+.dark1 h1{
+    color: white;
+    margin: 50px;
+    padding-left: 10px;
+    margin-top: -30px;
+    padding-top: 60px;
+    font-weight: inherit;
+    font-size: 36px;
+}
+.logo1 img{
+    height: 120px;
+    padding-bottom: -110px;
+    padding-left: 20px;
+}
+.email1{
+    position: absolute;
+    font-weight: inherit;
+    margin-top: -510px;
+    margin-left: 539px;
+    padding-left: 5px;
+}
+.email1 input{
+    height: 45px;
+    width: 320px;
+    padding-left: 10px;
+    background-color: rgb(72, 70, 70);
+    border: 2px solid  rgb(72, 70, 70);
+    margin-left: -1px;
+    color: white;
+    border-radius: 3px;
+}
+.password{
+    position: absolute;
+    font-weight: inherit;
+    margin-top: -440px;
+    margin-left: 539px;
+    padding-left: 5px;
+}
+.password input{
+    height: 45px;
+    width: 320px;
+    padding-left: 10px;
+    background-color: rgb(72, 70, 70);
+    border: 2px solid rgb(72, 70, 70);
+    margin-left: -1px;
+    color: white;
+    border-radius: 3px;
+}
+.button1 button{
+    position: absolute;
+    font-weight: inherit;
+    margin-top: -440px;
+    margin-left: 543px;
+    padding-left: 5px;
+    margin-top: -350px;
+    height: 50px;
+    width: 335px;
+    padding-left: 10px;
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+    border-radius: 3px;
+    font-size: 16px;
+}
+.button1 :hover{
+    background-color: rgb(202, 43, 43);
+    cursor: pointer;
+    border: 2px solid  rgb(202, 43, 43);
+}
+.checkbox1{
+    margin-top: -280px;
+    margin-left: 545px;
+   
+}
+.checkbox1 label{
+    color: aliceblue;
+    font-weight: inherit;
+    font-size: 15px;
+    color: rgb(172, 163, 163);
+}
+.checkbox1 input{
+    margin-right: 5px;
+    margin-right: 5px;
+    
+}
+.a1 a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 795px;
+    position: absolute;
+    margin-top: -17px;
+    color: rgb(172, 163, 163);
+}
+.p3{
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: gray;
+    margin-left: 545px;
+    margin-top: 80px;
+}
+.a2 a{
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+    margin-left: 660px;
+    margin-top: -30px;
+    position: absolute;
+}
+.a2 :hover{
+    text-decoration: underline;
+}
+.p1 p{
+    margin-left: 545px;
+    color: gray;
+    font-size: 13px;
+}
+.r1 a{
+    margin-left: 690px;
+    margin-top: -16px;
+    position: absolute;
+    text-decoration: none;
+    color: blue;
+}
+.r1  :hover{
+    text-decoration: underline;
+}
